@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 Minhas contribuições 🐍</h2>
   <br>
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/meliodasbr-oficial/meliodasbr-oficial/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/meliodasbr-oficial/meliodasbr-oficial/output/github-contribution-grid-snakev2.svg" />
   
   <br/><br/><br/>
 </div>
