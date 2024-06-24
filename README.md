@@ -56,7 +56,7 @@
   <img width=390 src="https://streak-stats.demolab.com?user=meliodasbr-oficial&theme=midnight-purple&&layout=compact&border_radius=10&count_weight=0.5&size_weight=0.5&locale=pt_BR" alt="estatísticas de sequência"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=meliodasbr-oficial&theme=midnight-purple&locale=pt-br&border_radius=10&count_weight=0.5" alt="leia as estatísticas" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=meliodasbr-oficial&hide=HTML&langs_count=8&layout=defalt&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=meliodasbr-oficial&hide=HTML&langs_count=8&layout=defalt&theme=midnight-purple&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&locale=pt-br" alt="top langs" />
 </div>
 
 <br/><br/>
