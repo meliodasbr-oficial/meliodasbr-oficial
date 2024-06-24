@@ -26,6 +26,7 @@ jobs:
           github_user_name: meliodasbr-oficial
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          snake_color: 'blue'
 
       - run: git status
 
