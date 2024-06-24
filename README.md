@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meliodasbr-oficial.meliodasbr-oficial" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meliodasbr-oficial.meliodasbr-oficial" /> <img align="right" src="https://wakatime.com/badge/user/ea8ff3dd-0ce4-4de7-91d5-6a5ca477a013.svg" />
+
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=100&duration=6000&lines=Olá!+👋;Meu+Nome+é+Richard+Aghamenon!" />
