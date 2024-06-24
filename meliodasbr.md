@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=100&duration=6000&lines=Olá!+👋;Meu+Nome+é+Richard+Aghamenon!" />
 </h1>
 
-<h3 align="center">Um desenvolvedor apaixonado em programação do Brasil ʙʀ</h3>
+<h3 align="center">Um estudante apaixonado em programação do Brasil ʙʀ</h3>
 
 <br/>
 
@@ -62,3 +62,7 @@
 <br/><br/>
 
 <hr/>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1100&random=false&width=900&height=100&lines=Obrigado!;Por+me+acompanhar+nesta+aventrura+da+programa%C3%A7%C3%A3o." />
+</h1>
