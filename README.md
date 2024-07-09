@@ -41,7 +41,6 @@
 
 <br/>
 <hr/>
-<hr/>
 
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
