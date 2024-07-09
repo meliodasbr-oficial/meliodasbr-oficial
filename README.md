@@ -41,15 +41,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
-  <br>
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/meliodasbr-oficial/meliodasbr-oficial/output/github-contribution-grid-snake2.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Status ⚡</h2>
